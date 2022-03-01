@@ -1,0 +1,3 @@
+# MTEX_realEBSD
+这里的文件是MTEX处理实际EBSD的脚本，当然有些还是以Python脚本驱动，调起matlab脚本。
+For_z_paper里面有生成单个晶粒取向正方体的脚本和生成晶粒大小伪彩色图的脚本
